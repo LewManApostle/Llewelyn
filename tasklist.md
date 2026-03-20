@@ -7,3 +7,7 @@
 "6. Schedule weekly coding practice sessions" 
 "7. Back up all project files and code repositories" 
 "8. Attend at least one tech workshop" 
+"Track grades regularly" 
+"Build a peronsla portfolio project" 
+"Apply for internships and certifications" 
+"Conduct a mid-semester review" 
